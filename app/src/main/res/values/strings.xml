@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bouillabaisse</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_play_button_text">Play</string>
+    <string name="recap_next_button_text">Next</string>
+    <string name="player_1_text">Player 1</string>
+    <string name="player_2_text">Player 2</string>
+    <string name="player_3_text">Player 3</string>
+    <string name="player_4_text">Player 4</string>
+    <string name="replay">Replay</string>
+    <string name="menu">Menu</string>
+    <string name="next">Next</string>
+    <string name="play">Play</string>
+    <string name="player">Player</string>
+    <string name="points">Points</string>
+</resources>
